@@ -1,6 +1,4 @@
-
-![IMG_0613](https://user-images.githubusercontent.com/113402256/226497615-6e407dba-ef67-4dff-b4f5-9c1a65873977.png)git 
-
+.
 ## About Me
 - 👋🏼 Hi, I’m Brandon Fenk. I currently live in Portland, Oregon!
 - 🧙‍♂️ I’m looking to collaborate on web apps using C#/.Net, Javascript/React.
@@ -8,11 +6,17 @@
 
 
 ## Skills
-*  | C# | .Net | ASP.Net Core
-* JavaScript | React | Node.js | webpack | Jest | Babel
-* MySQL | NoSQL | React Native | Redux |
-* HTML | CSS | Boostrap
-* GitHub
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
+</div>
 
 ## Stats
 | | |
