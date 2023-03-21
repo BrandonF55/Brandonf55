@@ -1,11 +1,11 @@
-.
 ## About Me
+
 - 👋🏼 Hi, I’m Brandon Fenk. I currently live in Portland, Oregon!
 - 🧙‍♂️ I’m looking to collaborate on web apps using C#/.Net, Javascript/React.
 - 📩 How to contact me ~~~~> Brandon.fenk99@gmail.com.
 
-
 ## Skills
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -25,6 +25,6 @@
 | | |
 
 
-Portfolio Project: https://darling-cendol-0afede.netlify.a
+## Portfolio Project: https://darling-cendol-0afede.netlify.a
 
 
