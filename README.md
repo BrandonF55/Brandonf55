@@ -1,10 +1,12 @@
-## About Me
+## 👋🏼 Come Say Hi...
 
-- 👋🏼 Hi, I’m Brandon Fenk. I currently live in Portland, Oregon!
+## About Me:
+
+- 🌇 I currently live in Sandy, Oregon!
 - 🧙‍♂️ I’m looking to collaborate on web apps using C#/.Net, Javascript/React.
-- 📩 How to contact me ~~~~> Brandon.fenk99@gmail.com.
+- 📨 How to contact me ~~~~> Brandon.fenk99@gmail.com.
 
-## Skills
+## Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -18,10 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
 </div>
 
-## Stats
+## Stats:
 | | |
 |:---:|:---:|
-| [![BrandonF55's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonf55&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![BrandonF55's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brandonf55&theme=tokyonight&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Brandon Fenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonf55&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Brandon Fenk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brandonf55&theme=tokyonight&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | | |
 
 
