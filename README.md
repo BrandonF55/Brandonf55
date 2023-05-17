@@ -1,9 +1,9 @@
-## 👋🏼 Come Say Hi...
+## Come Say Hi👋🏼 
 
 ## About Me:
 
 - 🌇 I currently live in Sandy, Oregon!
-- 🧙‍♂️ I’m looking to collaborate on web apps using C#/.Net, Javascript/React.
+- 🧙‍♂️ I’m looking to collaborate on web applications using C#/.Net, Javascript/React.
 - 📨 How to contact me ~~~~> Brandon.fenk99@gmail.com.
 
 ## Skills:
@@ -27,6 +27,6 @@
 | | |
 
 
-## Portfolio Project: https://darling-cendol-0afede.netlify.a
+## Portfolio Project: https://darling-cendol-0afede.netlify.app
 
 
