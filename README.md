@@ -23,7 +23,7 @@
 ## Stats:
 | | |
 |:---:|:---:|
-| [![Brandon Fenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonf55&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Brandon Fenk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brandonf55&theme=tokyonight&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Brandon Fenk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=brandonf55&theme=tokyonight&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | | |
 
 
